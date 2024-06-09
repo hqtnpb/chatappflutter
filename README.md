@@ -1,6 +1,12 @@
 # chatapp
+*HÃY ĐẢM BẢO RẰNG KHI CHẠY PJ BẠN ĐANG CHẠY Ở FILE ROOT(file gốc chứa tất cả các thư mục) CỦA DỰ ÁN *
+Mini Chat app :
+Cách cài đặt và chạy ứng dụng:
+- Có thể clone pj hoặc download trực tiếp về
+- Sau khi clone pj hoặc download về, mở terminal trong IDE lên
+- Gõ vào terminal  "flutter clean" sau đó gõ "flutter pub get"
+- Sau đó mở máy ảo lên và chạy như bình thường
 
-A new Flutter project.
 
 ## Getting Started
 
