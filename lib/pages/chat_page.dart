@@ -11,7 +11,7 @@ class ChatPage extends StatelessWidget {
   final String receiverID;
   final String image;
   final String name;
- //fashdlfajksdhfk
+
   ChatPage({
     super.key,
     required this.receiverEmail,
@@ -83,7 +83,7 @@ class ChatPage extends StatelessWidget {
         }
         //loading
         if (snapshot.connectionState == ConnectionState.waiting) {
-          return const Text("Loading..");
+          return const Text("Loading...");
         }
         //return list view
         return ListView(
